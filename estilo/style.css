@@ -9,7 +9,7 @@
 :root{
     --font1: Verdana, Geneva, Tahoma, Sans-serif;
     --font2:'Passion One', Times;
-    --font3:'Dancing Script', cursiva;
+    --font3:'Dancing Script', cursiva, times;
 }
 
 *{
